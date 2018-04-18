@@ -1,0 +1,4 @@
+1410	Grunwald	Polska
+1683	Wieden		Polska
+1939	Krotoszyn	Polska
+1944	Warszawa	Niemcy
